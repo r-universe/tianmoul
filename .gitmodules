@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bootcluster"]
 	path = bootcluster
-	url = https://github.com/cran/bootcluster
+	url = https://github.com/tianmoul/bootcluster
